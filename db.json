@@ -1,4 +1,11 @@
 {
-  "volt":13.31,
-  "soc":"100%"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
